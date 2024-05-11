@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cosmo-Black-Dev
+- 👋 Hi, I’m @Cosmo_Black
 - 👀 I’m interested to learn to be a Programmer.
 - 🌱 I’m currently learning English, Html, Css and Python.
 - 💞️ I’m looking to collaborate on some proyects soon.
